@@ -17,4 +17,5 @@ the main questions they’d like to answer:
 Data set that contains information about Rockbuster’s film inventory, customers, and payments, among other things.
 
 ***Vizulation***
+
 Visualizations were created in Tableau. The link to the storyboard can be found here: https://public.tableau.com/app/profile/smriti.bhattarai3580/viz/DataImmersion3_10task/Dashboard3?publish=yes
